@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
                     if(isCheckUser && isCheckPass) {
                         // PowerPoint Slide 92, precisa corrigir o resto para ver o erro.
-                        Toast.makeText(this, "Login Realizado com Sucesso");
+                        Toast.makeText(this, "Login Realizado com Sucesso", Toast.LENGTH_LONG).show();
                     }
                 }
         });
