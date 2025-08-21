@@ -33,4 +33,6 @@ public class UsuarioDataModel {
         Log.i("tabela", "criarTabela: " + querryCriarTabela);
         return querryCriarTabela;
     }
+
+
 }
